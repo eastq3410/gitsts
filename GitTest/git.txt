@@ -35,7 +35,7 @@ git.txt
 												5) git pull							 	
  	
  	
- 	
+ 	*원격저장소 작업 진행 
 	
  	
  	
